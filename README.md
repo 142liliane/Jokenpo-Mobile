@@ -32,7 +32,7 @@
 > O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## Telas do Aplicativo 1
-> **Tela Principal**
+> **Tela Principal:**
 > Na tela principal, o usuário escolhe entre as opções: pedra, papel ou tesoura.
 >  e o app então exibe se você perdeu ou nâo.
 
